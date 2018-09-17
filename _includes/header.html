@@ -1,0 +1,29 @@
+<header class="navbar navbar-inverse navbar-fixed-top docs-nav" role="banner">
+  <div class="container">
+    <div class="navbar-header">
+      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+      <ul class="nav navbar-nav">    
+        <li>
+          <a href="{{ '/' | prepend: site.baseurl }}">Home</a>
+        </li>
+        <li>
+          <a href="{{ '/association/' | prepend: site.baseurl }}">Associazione</a>
+        </li>
+        <li>
+          <a href="{{ '/homes' | prepend: site.baseurl }}">Strutture</a>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+            <!-- <a href="{{ '/association/' | prepend: site.baseurl }}">Associazione</a> -->
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>

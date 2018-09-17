@@ -1,0 +1,25 @@
+# Site settings
+name: AmiciSenzaTetto
+email: palatucci@hotmail.it
+author: AmiciSenzaTetto
+url: http://www.amicisenzatetto.it
+github: https://github.com/rakwaht/
+baseurl: ""
+description: “Amici dei senza tetto di Trento” – onlus è una organizzazione socio assistenziale che si interessa delle  persone che si trovano in condizioni di non avere una dimora a disposizione.​
+meta_description: “Amici dei senza tetto di Trento” – onlus è una organizzazione socio assistenziale che si interessa delle  persone che si trovano in condizioni di non avere una dimora a disposizione.​
+motto: ACCOGLIENZA TRENTINA
+banner: ACCOGLIENZA TRENTINA
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: rakwaht
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+
