@@ -5,9 +5,60 @@
     <description>“Amici dei senza tetto di Trento” – onlus è una organizzazione socio assistenziale che si interessa delle  persone che si trovano in condizioni di non avere una dimora a disposizione.​</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Sep 2018 21:41:53 +0200</pubDate>
-    <lastBuildDate>Sun, 16 Sep 2018 21:41:53 +0200</lastBuildDate>
-    <generator>Jekyll v3.8.3</generator>
+    <pubDate>Tue, 22 Jan 2019 21:36:37 +0100</pubDate>
+    <lastBuildDate>Tue, 22 Jan 2019 21:36:37 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>CONVENZIONE DI SOVVENZIONE </title>
+        <description>
+&lt;p&gt;CONVENZIONE DI SOVVENZIONE N. AV4-2016-TN STIPULATA DAL MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI AVVISO 4 2016  F.E.A.D. E LA PROVINCIA AUTONOMA DI TRENTO SERVIZIO POLITICHE SOCIALI&lt;/p&gt;
+
+&lt;p&gt;La Provincia Autonoma di Trento Servizio Politiche Sociali ha destinato alla nostra Associazione l’importo di € 63.525,00 (sessantatremilacinquecentoventicinque/00) mediante accreditamento per l’acquisto di varie attività logistiche compreso l’acquisto di vestiario e altri materiali per le persone adulte di ambo i sessi di età compresa fra i 18 e 64 anni in diverse situazioni di fragilità. Valenza di questa provvidenza dal 1 giugno 2018 al 31 dicembre 2019 che frequentano il Centro diurno di accoglienza di Casa Maurizio e Casa Baldè.&lt;/p&gt;
+
+&lt;p&gt;Provincia Autonoma di Trento Servizio Politiche Sociali Provincia Autonoma di Trento Servizio Politiche Sociali.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 22 Jan 2019 14:13:01 +0100</pubDate>
+        <link>http://localhost:4000/2019/01/22/convenzione/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/22/convenzione/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>CONTRIBUTO PER CONTRASTO A CONDIZIONI DI ESCLUSIONE SOCIALE DELLE PERSONE IN CONDIZIONI DI POVERTA’ ASSOLUTA  O RELATIVA E DEI MIGRANTI</title>
+        <description>
+&lt;p&gt;CONTRIBUTO PER CONTRASTO A CONDIZIONI DI ESCLUSIONE SOCIALE DELLE PERSONE IN CONDIZIONI DI POVERTA’ ASSOLUTA  O RELATIVA E DEI MIGRANTI (legge 6 GIUGNO 2016 N. 106 e D.LGS. 3 LUGLIO 2017, N. 117)&lt;/p&gt;
+
+&lt;p&gt;CONTRIBUTO CONCESSO DI € 40.000,00 (quarantamila/00) con determinazione della Provincia Autonoma di Trento Servizio Politiche Sociali dirigente Dott.ssa Federica SARTORI n. 425 DI DATA 23 OTTOBRE 2018 per:&lt;/p&gt;
+
+&lt;p&gt;Casa Baldè quale Centro Diurno Polifunzionale diffuso  per contrasto a condizioni di esclusione sociale delle persone in condizione di povertà assoluta con valenza 1 GIUGNO 2018 30 SETTEMBRE 2019&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 22 Jan 2019 14:13:01 +0100</pubDate>
+        <link>http://localhost:4000/2019/01/22/contributo_2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/22/contributo_2/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>CONTRIBUTO PER CONTRASTO A CONDIZIONI DI ESCLUSIONE SOCIALE DELLE PERSONE SENZA DIMORA</title>
+        <description>
+&lt;p&gt;CONTRIBUTO PER CONTRASTO A CONDIZIONI DI ESCLUSIONE SOCIALE DELLE PERSONE SENZA DIMORA (legge 6 GIUGNO 2016 N. 106 e D.LGS. 3 LUGLIO 2017, N. 117)&lt;/p&gt;
+
+&lt;p&gt;CONTRIBUTO CONCESSO DI € 90.000,00 (novantamila/00) con determinazione del dirigente della Provincia Autonoma di Trento Servizio Politiche Sociali Dott.ssa Federica SARTORI n. 425 DI DATA 23 OTTOBRE 2018 per:&lt;/p&gt;
+
+&lt;p&gt;Casa Maurizio e Casa  Paola due realtà per uomini e donne senza fissa dimora con valenza 1 GIUGNO 2018 30 SETTEMBRE 2019&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 22 Jan 2019 14:12:01 +0100</pubDate>
+        <link>http://localhost:4000/2019/01/22/contributo_1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/22/contributo_1/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Quatto anni dalla fondazione dell'associazione</title>
@@ -21,8 +72,8 @@
 
 </description>
         <pubDate>Wed, 23 May 2018 07:31:01 +0200</pubDate>
-        <link>http://localhost:4000/2018/05/23/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/05/23/welcome-to-jekyll/</guid>
+        <link>http://localhost:4000/2018/05/23/first_post/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/05/23/first_post/</guid>
         
         
       </item>
