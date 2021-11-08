@@ -7118,6 +7118,10 @@ td.visible-print {
   }
 }
 
+.media-entire-height {
+  min-height: 100vh;
+}
+
 /**
 :target{
     padding-top: 70px;
